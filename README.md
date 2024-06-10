@@ -1,2 +1,2 @@
 # clean-repo
-test-
+probot-cr-test
